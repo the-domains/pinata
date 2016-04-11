@@ -1,4 +1,4 @@
-name: pinata
+name: Piñata
 favicon: null
 layout_spectrum: 0.9326967124361545
 typography_spectrum: 0.4904393965844065
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7588881358969957
-  lightness: 0.7524156249128282
-  saturation: 0.1770972355734557
-  rhythmicContrast: 0.202919430565089
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
