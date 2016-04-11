@@ -1,0 +1,28 @@
+name: pinata
+favicon: null
+layout_spectrum: 0.9326967124361545
+typography_spectrum: 0.4904393965844065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7588881358969957
+  lightness: 0.7524156249128282
+  saturation: 0.1770972355734557
+  rhythmicContrast: 0.202919430565089
+purpose: []
